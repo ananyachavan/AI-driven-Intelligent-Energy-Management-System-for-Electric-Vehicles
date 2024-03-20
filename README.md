@@ -41,5 +41,4 @@ The goal of this project is to develop a robust linear regression model that acc
 
 ## Contributors
 
-- [Your Name] - [Your Email]
-- [Additional Contributors]
+- Ananya Chavan - chavanananyam@gmail.com
